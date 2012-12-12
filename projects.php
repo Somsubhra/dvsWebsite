@@ -61,6 +61,10 @@
 <hr />
 </div>
 
+<div id="body">
+Projects body here...
+</div>
+
 </body>
 
 </html>

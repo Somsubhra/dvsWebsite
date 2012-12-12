@@ -61,6 +61,10 @@
 <hr />
 </div>
 
+<div id="body">
+Picture Gallery here...
+</div>
+
 </body>
 
 </html>

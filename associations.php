@@ -61,6 +61,10 @@
 <hr />
 </div>
 
+<div id="body">
+Associations body here...
+</div>
+
 </body>
 
 </html>

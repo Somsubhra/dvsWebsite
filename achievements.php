@@ -61,6 +61,11 @@
 <hr />
 </div>
 
+<div id="body">
+	Achievements body here...
+    
+</div>
+
 </body>
 
 </html>

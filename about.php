@@ -61,6 +61,10 @@
 <hr />
 </div>
 
+<div id="body">
+	About Us body here...
+</div>
+
 </body>
 
 </html>

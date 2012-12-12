@@ -61,6 +61,10 @@
 <hr />
 </div>
 
+<div id="body">
+Our Missions body here...
+</div>
+
 </body>
 
 </html>

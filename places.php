@@ -61,6 +61,10 @@
 <hr />
 </div>
 
+<div id="body">
+Places body here...
+</div>
+
 </body>
 
 </html>

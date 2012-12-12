@@ -63,7 +63,7 @@
 </div>
 
 <div id="body">
-dkdjkvkdfnvkvnkbvk jdjcndskjvnvjnfvn
+Home body here...
 </div>
 
 </body>

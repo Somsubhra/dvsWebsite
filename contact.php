@@ -60,6 +60,10 @@
 <div id="rule">
 <hr />
 </div>
+
+<div id="body">
+Contact body here...
+</div>
 </body>
 
 </html>
