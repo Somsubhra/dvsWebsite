@@ -6,15 +6,30 @@
 <link rel="stylesheet" href="style/ticker.css" />
 <script src="script/jquery-1.2.6.min.js" type="text/javascript"></script>
 <script src="script/ticker.js" type="text/javascript"></script>
+<script src="script/login.js" type="text/javascript"></script>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Contact Us: Dang Vikas Sansthan</title>
 </head>
 <body>
+<div id="popupbox"> 
+      <form name="login" action="" method="post">
+        <center><div id="label">Username:</div></center>
+        <center><input name="username" size="14" id="username" /></center>
+        <center><div id="label">Password:</div></center>
+        <center><input name="password" type="password" size="14" id="password" /></center>
+        <center><input type="submit" name="submit" value="login" id="loginbutton" /></center>
+      </form>
+      <br />
+     <center><a href="javascript:login('hide');">Close</a></center> 
+</div> 
+
 
 <div id="banner">
 </div>
 
-
+<div id="login">
+<a href="javascript:login('show');"><button id="loginbutton">Admin Login</button></a>
+</div>
 <div id="logo">
 
 </div>
