@@ -1,6 +1,60 @@
 @charset "utf-8";
 /* CSS Document */
 
+#popupbox{
+        /*margin: 0; 
+        margin-left: 0%; 
+        margin-right: 0%;
+        margin-top: 50px;*/ 
+        padding-top: 10px; 
+        width: 20%; 
+        height: 150px; 
+        position: absolute; 
+        background: #CCC; 
+		left:550px;
+		top:250px;
+		-moz-border-radius: 15px;
+    	-webkit-border-radius: 15px;
+    	-khtml-border-radius: 15px;
+    	border-radius: 15px;
+        /*border: solid #000000 2px;*/
+		/*border:thin #444444 2px;*/ 
+        z-index: 9; 
+        font-family: arial; 
+        visibility: hidden; 
+}
+
+#login{
+	position:absolute;
+	top:5px;
+	left:1200px;
+	
+}
+
+#loginbutton{
+	background:#AAAAAA;
+    border: none;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -khtml-border-radius: 10px;
+    border-radius: 10px;
+    color: #FFFFFF;
+    font: 12px Georgia, "Times New Roman", Times, serif;
+    padding: 5px 15px;
+ 
+}
+#loginbutton:hover{
+	background:#888888;
+    border: none;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -khtml-border-radius: 10px;
+    border-radius: 10px;
+    color: #FFFFFF;
+    font: 12px Georgia, "Times New Roman", Times, serif;
+    padding: 5px 15px;}
+
+
 #title{
 	color:#F60;
 	font-size:36px;
@@ -74,3 +128,16 @@
 	color:#666;
 	font-family:Georgia, "Times New Roman", Times, serif;
 }
+
+#label{
+	color:#FFFFFF;
+	font-family:Georgia, "Times New Roman", Times, serif;
+}
+
+input{
+	
+	-moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -khtml-border-radius: 5px;
+    border-radius: 5px;
+	font-size:12px;}
