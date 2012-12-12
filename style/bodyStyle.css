@@ -41,12 +41,36 @@
 	font-weight:normal;
 	width:780px;
 }
-
+#logo{
+	
+	position:absolute;
+	top:5px;
+	left:100px;
+	width:75px;
+	height:75px;
+}
 #banner{
 	position:absolute;
 	top:0px;
 	left:0px;
 	width:1400px;
 	height:80px;
-	background-color:#06F;
+	background-color:#DDD;
+}
+
+#webTitle{
+	position:absolute;
+	top:20px;
+	left:240px;
+	font-size:48px;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	color:#F60;
+	font-weight:600;
+	font-style:italic;
+}
+
+#body h1{
+	font-size:16px;
+	color:#666;
+	font-family:Georgia, "Times New Roman", Times, serif;
 }

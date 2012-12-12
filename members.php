@@ -1,15 +1,16 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
+<link rel="stylesheet" href="style/bodyStyle.css" />
 <link rel="stylesheet" href="style/menuStyle.css" />
 <link rel="stylesheet" href="style/ticker.css" />
-<link rel="stylesheet" href="style/bodyStyle.css" />
 <script src="script/jquery-1.2.6.min.js" type="text/javascript"></script>
 <script src="script/ticker.js" type="text/javascript"></script>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Welcome: Dang Vikas Sansthan</title>
+<title>Members: Dang Vikas Sansthan</title>
 </head>
 <body>
+
 <div id="banner">
 </div>
 
@@ -21,6 +22,7 @@
 <div id="webTitle">
 	
 </div>
+
 <ul id="menu">
 	<li><a href="index.php">Home</a></li>
     <li><a href="#">About us</a>
@@ -40,6 +42,7 @@
     <li><a href="gallery.php">Photos</a></li>
     <li><a href="contact.php">Contact Us</a></li>
 </ul>
+
 
 <ul id="ticker">
 		<li>
@@ -68,9 +71,8 @@
 		</li>
 </ul>
 
-
 <div id="title">
-	Home
+	Members
 </div>
 
 <div id="rule">
@@ -78,7 +80,7 @@
 </div>
 
 <div id="body">
-Home body here...
+Projects body here...
 </div>
 
 </body>

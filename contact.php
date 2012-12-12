@@ -14,6 +14,15 @@
 <div id="banner">
 </div>
 
+
+<div id="logo">
+
+</div>
+
+<div id="webTitle">
+	
+</div>
+
 <ul id="menu">
 	<li><a href="index.php">Home</a></li>
     <li><a href="#">About us</a>
@@ -21,6 +30,8 @@
     	<li><a href="about.php">About DVS</a></li>
     	<li><a href="mission.php">Our Mission</a></li>
         <li><a href="places.php">Where We Work</a></li>
+        <li><a href="members.php">Members</a></li>
+        <li><a href="registration.php">Registration</a></li>
     </ul>
     
     </li>
@@ -69,7 +80,26 @@
 </div>
 
 <div id="body">
-Contact body here...
+	<h1>Post Address</h1>
+    <address>Dang Vikas Sansthan,<br />
+     Sabji Mandi,
+     Padam Talab,<br />
+     Karauli, 32241,<br />
+     Rajasthan, India.</address>
+     <br />
+     <h1>Present Office Address</h1>
+     <address>
+     P.W.D,<br />
+     Opposite Adhishashi Karyalaya,<br />
+     Karauli, <br />
+     Rajasthan, India.</address>
+     <br />
+     <h1>Phone number</h1>
+     07464-220772
+     <br />
+     <br />
+     <h1>E-mail</h1>
+     <a href="mailto:dvs.karauli@gmail.com">dvs.karauli@gmail.com</a>
 </div>
 </body>
 
