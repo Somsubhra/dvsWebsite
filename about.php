@@ -10,6 +10,17 @@
 <title>About Us: Dang Vikas Sansthan</title>
 </head>
 <body>
+<div id="banner">
+</div>
+
+
+<div id="logo">
+
+</div>
+
+<div id="webTitle">
+	
+</div>
 
 <ul id="menu">
 	<li><a href="index.php">Home</a></li>
@@ -18,6 +29,8 @@
     	<li><a href="about.php">About DVS</a></li>
     	<li><a href="mission.php">Our Mission</a></li>
         <li><a href="places.php">Where We Work</a></li>
+        <li><a href="members.php">Members</a></li>
+        <li><a href="registration.php">Registration</a></li>
     </ul>
     
     </li>

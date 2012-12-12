@@ -11,6 +11,18 @@
 </head>
 <body>
 
+<div id="banner">
+</div>
+
+
+<div id="logo">
+
+</div>
+
+<div id="webTitle">
+	
+</div>
+
 <ul id="menu">
 	<li><a href="index.php">Home</a></li>
     <li><a href="#">About us</a>
@@ -18,6 +30,8 @@
     	<li><a href="about.php">About DVS</a></li>
     	<li><a href="mission.php">Our Mission</a></li>
         <li><a href="places.php">Where We Work</a></li>
+        <li><a href="members.php">Members</a></li>
+        <li><a href="registration.php">Registration</a></li>
     </ul>
     
     </li>
@@ -66,7 +80,16 @@
 </div>
 
 <div id="body">
-Our Missions body here...
+<p>
+Our main vision and goal is to establish a country where peace, equality and justice is a right of all and there is also a feeling of benvolence in all.
+</p>
+<p>
+Our mission is to the help the socially weak section of the society like the Dalits, mine labourers, women and socially backward people to get the employment and also to study the health hazards associated with the respective livelihoods and increase their economic and social status.
+</p>
+
+<p>
+Our organisation aims to identify the poorest of poorest in the society and study the factors directly influencing their livelihoods and also to identify the problems faced in their occupations. The organisation hopes to serve the people with limited and small incomes. The organisation also keeps interest in areas of goat rearing, water harvesting, etc.
+</p>
 </div>
 
 </body>
