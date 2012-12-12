@@ -6,7 +6,7 @@
 <script src="script/jquery-1.2.6.min.js" type="text/javascript"></script>
 <script src="script/ticker.js" type="text/javascript"></script>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Welcome: Dang Vikas Sansthan</title>
+<title>Projects: Dang Vikas Sansthan</title>
 </head>
 <body>
 
