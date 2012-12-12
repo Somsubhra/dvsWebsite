@@ -80,7 +80,29 @@
 </div>
 
 <div id="body">
-Projects body here...
+<h1>Chief Contact Person:</h1>
+<table>
+<tr><td>Name:</td> <td>Dr. Vikas Bharadwaj</td></tr>
+<tr><td>Position:</td><td> Secretary</td></tr>
+<tr><td>Phone number:</td><td> 9414034538, 9414340578</td></tr>
+<tr><td>Email:</td><td> <a href="mailto:dvs.karauli@gmail.com">dvs.karauli@gmail.com</a></td></tr>
+</table>
+
+<h1>President:</h1>
+<table>
+<tr><td>Name:</td><td> Shri Gopilal</td></tr>
+<tr><td>President from:</td><td>17/12/2009-__</td></tr>
+<tr><td>Address:</td><td> Shri Gopilal Putra Shri Bhawar Lal Sharma, near old Nagar Palika, Chaubey Pada, Karauli.</td></tr>
+<tr><td>Phone number:</td><td> 9667856582</td></tr>
+</table>
+
+<h1>Vice-President:</h1>
+<table>
+<tr><td>Name</td><td>Rajkumar Sinh</td></tr>
+<tr><td>VP from:</td><td>2009-__</td></tr>
+<tr><td>Address:</td><td>Dr. Rajkumar Sinh, Abhay Swasthya Kendra, Gulab Bagh, Karauli.</td></tr>
+<tr><td>Phone number:</td><td>9414447395</td></tr>
+</table>
 </div>
 
 </body>

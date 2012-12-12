@@ -72,7 +72,7 @@
 </ul>
 
 <div id="title">
-	Our Missions
+	Our Mission
 </div>
 
 <div id="rule">
@@ -90,6 +90,21 @@ Our mission is to the help the socially weak section of the society like the Dal
 <p>
 Our organisation aims to identify the poorest of poorest in the society and study the factors directly influencing their livelihoods and also to identify the problems faced in their occupations. The organisation hopes to serve the people with limited and small incomes. The organisation also keeps interest in areas of goat rearing, water harvesting, etc.
 </p>
+<h1>Aim or Goals (As mentioned in memorandum):</h1>
+<ul>
+	<li>To create opportunities for local employment for women, youth and local people in rural areas.</li>
+	<li>To work for improving the employment opportunities the local natural resources.</li>
+ 	<li>To work for the betterment of health of the masses and women.</li>
+    <li>To work for increasing the capabilities of welfare work undertaken by governance of panchayat.</li>
+    <li>To spread awareness about the social welfare schemes undertaken by the government among the masses.</li>
+    <li>To work for improvement of the conditions of local artisans in the region.</li>
+    <li>To conduct studies for increasing the life expectancy of youth, women and handicapped.</li>
+    <li>To encourage women to make small savings, to help them to obtain loans from banks at low rates, and also from other non-banking agencies.
+    </li>
+    <li>To spread awareness about environment conservation in the region.</li>
+    <li>To spread technical education in the region.</li>
+    <li>To identify and work on the problems befallen on the livelihoods of the local poor people and to find their solutions.</li>   
+ </ul>
 </div>
 
 </body>

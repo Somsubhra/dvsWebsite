@@ -78,7 +78,8 @@
 </div>
 
 <div id="body">
-Places body here...
+<h1>As mentioned in the memorandum:</h1>
+<p>The organisation is working for the social welfare in 55 villages of 30 panchayats in Karauli district</p>
 </div>
 
 </body>

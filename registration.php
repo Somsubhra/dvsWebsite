@@ -80,7 +80,18 @@
 </div>
 
 <div id="body">
-Projects body here...
+<h1>Registered under Act:</h1>
+Rajasthan Society Act, 1958 on 26th December, 2003.
+<h1>Registration number and place:</h1>
+51/2003-4, Karauli, Rajasthan.
+<h1>Other registration details:</h1>
+<ul>
+<li>FCRA: Yes (2012)</li>
+<li>12A : Yes</li>
+<li>80G : Yes. Done in 2011 for lifetime.</li>
+<li>Permanent Account Number of the Organisation: AABTD1935C</li>
+<li>TAN Number: JPRD03942B </li>
+</ul>
 </div>
 
 </body>

@@ -80,25 +80,25 @@
 </div>
 
 <div id="body">
-	<h1>Post Address</h1>
+	<h1>Post Address:</h1>
     <address>Dang Vikas Sansthan,<br />
      Sabji Mandi,
      Padam Talab,<br />
      Karauli, 32241,<br />
      Rajasthan, India.</address>
      <br />
-     <h1>Present Office Address</h1>
+     <h1>Present Office Address:</h1>
      <address>
      P.W.D,<br />
      Opposite Adhishashi Karyalaya,<br />
      Karauli, <br />
      Rajasthan, India.</address>
      <br />
-     <h1>Phone number</h1>
+     <h1>Phone number:</h1>
      07464-220772
      <br />
      <br />
-     <h1>E-mail</h1>
+     <h1>E-mail:</h1>
      <a href="mailto:dvs.karauli@gmail.com">dvs.karauli@gmail.com</a>
 </div>
 </body>
