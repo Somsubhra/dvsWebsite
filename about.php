@@ -10,6 +10,8 @@
 <title>About Us: Dang Vikas Sansthan</title>
 </head>
 <body>
+<div id="banner">
+</div>
 
 <ul id="menu">
 	<li><a href="index.php">Home</a></li>

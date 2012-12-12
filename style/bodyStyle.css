@@ -41,3 +41,12 @@
 	font-weight:normal;
 	width:780px;
 }
+
+#banner{
+	position:absolute;
+	top:0px;
+	left:0px;
+	width:1400px;
+	height:80px;
+	background-color:#06F;
+}
