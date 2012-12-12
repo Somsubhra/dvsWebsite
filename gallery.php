@@ -1,6 +1,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
+<link rel="stylesheet" href="style/bodyStyle.css" />
 <link rel="stylesheet" href="style/menuStyle.css" />
 <link rel="stylesheet" href="style/ticker.css" />
 <script src="script/jquery-1.2.6.min.js" type="text/javascript"></script>
@@ -51,6 +52,14 @@
 			<a href="#">This is news8</a>
 		</li>
 </ul>
+
+<div id="title">
+	Picture gallery
+</div>
+
+<div id="rule">
+<hr />
+</div>
 
 </body>
 

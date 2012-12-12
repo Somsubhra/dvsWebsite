@@ -3,6 +3,7 @@
 <head>
 <link rel="stylesheet" href="style/menuStyle.css" />
 <link rel="stylesheet" href="style/ticker.css" />
+<link rel="stylesheet" href="style/bodyStyle.css" />
 <script src="script/jquery-1.2.6.min.js" type="text/javascript"></script>
 <script src="script/ticker.js" type="text/javascript"></script>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -51,6 +52,19 @@
 			<a href="#">This is news8</a>
 		</li>
 </ul>
+
+
+<div id="title">
+	Home
+</div>
+
+<div id="rule">
+<hr />
+</div>
+
+<div id="body">
+dkdjkvkdfnvkvnkbvk jdjcndskjvnvjnfvn
+</div>
 
 </body>
 
