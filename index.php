@@ -13,18 +13,21 @@
 
 <ul id="menu">
 	<li><a href="index.php">Home</a></li>
-    <li><a href="about.php">About us</a></li>
-    <li><a href="mission.php">Our Mission</a></li>
-    <li><a href="places.php">Where we work</a></li>
+    <li><a href="#">About us</a>
+    <ul>
+    	<li><a href="about.php">About DVS</a></li>
+    	<li><a href="mission.php">Our Mission</a></li>
+        <li><a href="places.php">Where We Work</a></li>
+    </ul>
+    
+    </li>
+    
     <li><a href="projects.php">Projects</a></li>
     <li><a href="achievements.php">Achievements</a></li>
 	<li><a href="associations.php">Associations</a></li>
-    <li><a href="gallery.php">Picture Gallery</a></li>
-    <li><a href="links.php">Links</a></li>
+    <li><a href="gallery.php">Photos</a></li>
     <li><a href="contact.php">Contact Us</a></li>
 </ul>
-
-
 
 <ul id="ticker">
 		<li>
