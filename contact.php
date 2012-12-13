@@ -41,6 +41,7 @@
 	Karauli, Rajasthan.
 </div>
 
+
 <ul id="menu">
 	<li><a href="index.php">Home</a></li>
     <li><a href="#">About us</a>
@@ -54,7 +55,16 @@
     
     </li>
     
-    <li><a href="projects.php">Projects</a></li>
+    <li><a href="projects.php">Projects</a>
+    <ul>
+    	<li><a href="flrc.php">FLRC</a></li>
+        <li><a href="farmersclub.php">Farmers Club</a></li>
+        <li><a href="shg.php">SHG</a></li>
+        <li><a href="sds.php">Sanyukt Deyta Samuh</a></li>
+        <li><a href="msr.php">Manual Scavengers</a></li>
+    </ul>
+      
+    </li>
     <li><a href="achievements.php">Achievements</a></li>
 	<li><a href="associations.php">Associations</a></li>
     <li><a href="gallery.php">Photos</a></li>
@@ -102,13 +112,13 @@
     <address>Dang Vikas Sansthan,<br />
      Sabji Mandi,
      Padam Talab,<br />
-     Karauli, 32241,<br />
+     Karauli, 322241,<br />
      Rajasthan, India.</address>
      <br />
      <h1>Present Office Address:</h1>
      <address>
-     P.W.D,<br />
-     Opposite Adhishashi Karyalaya,<br />
+     Opposite S.E Office of P.W.D,<br />
+
      Karauli, <br />
      Rajasthan, India.</address>
      <br />

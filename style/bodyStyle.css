@@ -151,3 +151,10 @@ input{
 	color:#FFF;
 	font-weight:500;
 	font-style:italic;	}
+	
+table{
+	-moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -khtml-border-radius: 5px;
+    border-radius: 5px;
+}

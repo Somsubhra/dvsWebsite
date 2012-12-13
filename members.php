@@ -40,6 +40,7 @@
 <div id="caption">
 	Karauli, Rajasthan.
 </div>
+
 <ul id="menu">
 	<li><a href="index.php">Home</a></li>
     <li><a href="#">About us</a>
@@ -53,7 +54,16 @@
     
     </li>
     
-    <li><a href="projects.php">Projects</a></li>
+    <li><a href="projects.php">Projects</a>
+    <ul>
+    	<li><a href="flrc.php">FLRC</a></li>
+        <li><a href="farmersclub.php">Farmers Club</a></li>
+        <li><a href="shg.php">SHG</a></li>
+        <li><a href="sds.php">Sanyukt Deyta Samuh</a></li>
+        <li><a href="msr.php">Manual Scavengers</a></li>
+    </ul>
+      
+    </li>
     <li><a href="achievements.php">Achievements</a></li>
 	<li><a href="associations.php">Associations</a></li>
     <li><a href="gallery.php">Photos</a></li>
@@ -101,24 +111,32 @@
 <table>
 <tr><td>Name:</td> <td>Dr. Vikas Bharadwaj</td></tr>
 <tr><td>Position:</td><td> Secretary</td></tr>
-<tr><td>Phone number:</td><td> 9414034538, 9414340578</td></tr>
+<tr><td>Phone number:</td><td> 9414340578</td></tr>
 <tr><td>Email:</td><td> <a href="mailto:dvs.karauli@gmail.com">dvs.karauli@gmail.com</a></td></tr>
 </table>
 
 <h1>President:</h1>
 <table>
 <tr><td>Name:</td><td> Shri Gopilal</td></tr>
-<tr><td>President from:</td><td>17/12/2009-__</td></tr>
+<tr><td>President from:</td><td>17/12/2009-Present</td></tr>
 <tr><td>Address:</td><td> Shri Gopilal Putra Shri Bhawar Lal Sharma, near old Nagar Palika, Chaubey Pada, Karauli.</td></tr>
 <tr><td>Phone number:</td><td> 9667856582</td></tr>
 </table>
 
-<h1>Vice-President:</h1>
+<h1>Treasurer:</h1>
 <table>
-<tr><td>Name</td><td>Rajkumar Sinh</td></tr>
-<tr><td>VP from:</td><td>2009-__</td></tr>
-<tr><td>Address:</td><td>Dr. Rajkumar Sinh, Abhay Swasthya Kendra, Gulab Bagh, Karauli.</td></tr>
+<tr><td>Name</td><td>Dr. Rajkumar Singh</td></tr>
+<tr><td>Treasurer from:</td><td>2009-Present</td></tr>
+<tr><td>Address:</td><td>Dr. Rajkumar Singh, Abhay Swasthya Kendra, Gulab Bagh, Karauli.</td></tr>
 <tr><td>Phone number:</td><td>9414447395</td></tr>
+</table>
+
+<h1>Human Resources:</h1>
+<table border="1">
+<tr><th>Description</th><th>Number</th><th>Male</th><th>Female</th></tr>
+<tr><td>Long term employees</td><td>4</td><td>4</td><td>0</td></tr>
+<tr><td>Short term employees</td><td>5</td><td>2</td><td>3</td></tr>
+<tr><td>Volunteers</td><td>55</td><td>35</td><td>20</td></tr>
 </table>
 </div>
 

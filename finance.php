@@ -8,7 +8,7 @@
 <script src="script/ticker.js" type="text/javascript"></script>
 <script src="script/login.js" type="text/javascript"></script>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Our Mission: Dang Vikas Sansthan</title>
+<title>Finances: Dang Vikas Sansthan</title>
 </head>
 <body>
 <div id="popupbox"> 
@@ -41,6 +41,7 @@
 	Karauli, Rajasthan.
 </div>
 
+
 <ul id="menu">
 	<li><a href="index.php">Home</a></li>
     <li><a href="#">About us</a>
@@ -70,6 +71,7 @@
     <li><a href="contact.php">Contact Us</a></li>
 </ul>
 
+
 <ul id="ticker">
 		<li>
 			<a href="#">This is news1</a>
@@ -98,7 +100,7 @@
 </ul>
 
 <div id="title">
-	Our Mission
+	Financial Resources
 </div>
 
 <div id="rule">
@@ -106,31 +108,13 @@
 </div>
 
 <div id="body">
-<p>
-Our main vision and goal is to establish a country where peace, equality and justice is a right of all and there is also a feeling of benvolence in all.
-</p>
-<p>
-Our mission is to the help the socially weak section of the society like the Dalits, mine labourers, women and socially backward people to get the employment and also to reduce the health hazards associated with the respective livelihoods and increase their economic and social status.
-</p>
 
-<p>
-Our organisation aims to identify the poorest of poorest in the society and study the factors directly influencing their livelihoods and also to identify the problems faced in their occupations. The organisation hopes to serve the people with limited and small incomes. The organisation also keeps interest in areas of goat rearing, water harvesting, etc.
-</p>
-<h1>Aim or Goals (As mentioned in memorandum):</h1>
-<ul>
-	<li>To create opportunities for local employment for women, youth and local people in rural areas.</li>
-	<li>To work for improving the employment opportunities the local natural resources.</li>
- 	<li>To work for the betterment of health of the masses and women.</li>
-    <li>To work for increasing the capabilities of welfare work undertaken by governance of panchayat.</li>
-    <li>To spread awareness about the social welfare schemes undertaken by the government among the masses.</li>
-    <li>To work for improvement of the conditions of local artisans in the region.</li>
-    <li>To conduct studies for increasing the life expectancy of youth, women and handicapped.</li>
-    <li>To encourage women to make small savings, to help them to obtain loans from banks at low rates, and also from other non-banking agencies.
-    </li>
-    <li>To spread awareness about environment conservation in the region.</li>
-    <li>To spread technical education in the region.</li>
-    <li>To identify and work on the problems befallen on the livelihoods of the local poor people and to find their solutions.</li>   
- </ul>
+<table border="1">
+<tr><th>Financial Year</th><th>Obtained</th><th>Spent</th></tr>
+<tr><td>2011-12</td><td>15 lakhs</td><td>15 lakhs</td></tr>
+<tr><td>2010-11</td><td>9.5 lakhs</td><td>9.5 lakhs</td></tr>
+<tr><td>2009-10</td><td>8.5 lakhs</td><td>8.5 lakhs</td></tr>
+</table>
 </div>
 
 </body>

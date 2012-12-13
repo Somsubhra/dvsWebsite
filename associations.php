@@ -41,6 +41,7 @@
 	Karauli, Rajasthan.
 </div>
 
+
 <ul id="menu">
 	<li><a href="index.php">Home</a></li>
     <li><a href="#">About us</a>
@@ -54,7 +55,16 @@
     
     </li>
     
-    <li><a href="projects.php">Projects</a></li>
+    <li><a href="projects.php">Projects</a>
+    <ul>
+    	<li><a href="flrc.php">FLRC</a></li>
+        <li><a href="farmersclub.php">Farmers Club</a></li>
+        <li><a href="shg.php">SHG</a></li>
+        <li><a href="sds.php">Sanyukt Deyta Samuh</a></li>
+        <li><a href="msr.php">Manual Scavengers</a></li>
+    </ul>
+      
+    </li>
     <li><a href="achievements.php">Achievements</a></li>
 	<li><a href="associations.php">Associations</a></li>
     <li><a href="gallery.php">Photos</a></li>
@@ -97,7 +107,18 @@
 </div>
 
 <div id="body">
-Associations body here...
+<ul><li><a href="http://www.aravali.org">Aravali, Jaipur</a></li>
+<li><a href="http://www.nabard.org">NABARD</a></li>
+<li><a href="#">Karauli District Administration</a></li>
+<li><a href="http://www.aknd.org/AKF">Aga Khan Foundation, New Delhi</a></li>
+<li><a href="http://www.nimh.gov.in">NIMH, Nagpur</a></li>
+<li><a href="http://nhrc.nic.in">NHRC</a></li>
+<li><a href="http://www.cuts-international.org">CUTS International</a></li>
+<li><a href="http://www.aajeevika.org">Aajeevika Bureau</a></li>
+<li><a href="#">CECOE DECOE</a></li>
+<li><a href="#">Prasar, New Delhi</a></li>
+<li><a href="http://www.peoplestraining.org">PTRC, Vadodara</a></li>
+</ul>
 </div>
 
 </body>

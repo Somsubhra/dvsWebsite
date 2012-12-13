@@ -40,6 +40,7 @@
 	Karauli, Rajasthan.
 </div>
 
+
 <ul id="menu">
 	<li><a href="index.php">Home</a></li>
     <li><a href="#">About us</a>
@@ -53,13 +54,21 @@
     
     </li>
     
-    <li><a href="projects.php">Projects</a></li>
+    <li><a href="projects.php">Projects</a>
+    <ul>
+    	<li><a href="flrc.php">FLRC</a></li>
+        <li><a href="farmersclub.php">Farmers Club</a></li>
+        <li><a href="shg.php">SHG</a></li>
+        <li><a href="sds.php">Sanyukt Deyta Samuh</a></li>
+        <li><a href="msr.php">Manual Scavengers</a></li>
+    </ul>
+      
+    </li>
     <li><a href="achievements.php">Achievements</a></li>
 	<li><a href="associations.php">Associations</a></li>
     <li><a href="gallery.php">Photos</a></li>
     <li><a href="contact.php">Contact Us</a></li>
 </ul>
-
 
 <ul id="ticker">
 		<li>

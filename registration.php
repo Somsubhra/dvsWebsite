@@ -41,6 +41,7 @@
 	Karauli, Rajasthan.
 </div>
 
+
 <ul id="menu">
 	<li><a href="index.php">Home</a></li>
     <li><a href="#">About us</a>
@@ -54,7 +55,16 @@
     
     </li>
     
-    <li><a href="projects.php">Projects</a></li>
+    <li><a href="projects.php">Projects</a>
+    <ul>
+    	<li><a href="flrc.php">FLRC</a></li>
+        <li><a href="farmersclub.php">Farmers Club</a></li>
+        <li><a href="shg.php">SHG</a></li>
+        <li><a href="sds.php">Sanyukt Deyta Samuh</a></li>
+        <li><a href="msr.php">Manual Scavengers</a></li>
+    </ul>
+      
+    </li>
     <li><a href="achievements.php">Achievements</a></li>
 	<li><a href="associations.php">Associations</a></li>
     <li><a href="gallery.php">Photos</a></li>
@@ -104,12 +114,14 @@ Rajasthan Society Act, 1958 on 26th December, 2003.
 51/2003-4, Karauli, Rajasthan.
 <h1>Other registration details:</h1>
 <ul>
-<li>FCRA: Yes (2012)</li>
-<li>12A : Yes</li>
-<li>80G : Yes. Done in 2011 for lifetime.</li>
+<li>FCRA: Registered on 28/05/2012 (Registration Number: 125740003).</li>
+<li>Organisation is registered under Income Tax Act, 1961 Section 12A.</li>
+<li>Organisation is registered under Income Tax Act, 1961 Section 80G.</li>
 <li>Permanent Account Number of the Organisation: AABTD1935C</li>
 <li>TAN Number: JPRD03942B </li>
 </ul>
+
+<a href="finance.php">Finanacial Resources</a>
 </div>
 
 </body>
