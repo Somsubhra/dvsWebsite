@@ -107,7 +107,7 @@
 	position:absolute;
 	top:0px;
 	left:0px;
-	width:1400px;
+	width:1366px;
 	height:80px;
 	background-color:#DDD;
 }
@@ -118,7 +118,7 @@
 	left:240px;
 	font-size:48px;
 	font-family:Georgia, "Times New Roman", Times, serif;
-	color:#F60;
+	color:#888;
 	font-weight:600;
 	font-style:italic;
 }
@@ -130,7 +130,7 @@
 }
 
 #label{
-	color:#FFFFFF;
+	color:#444444;
 	font-family:Georgia, "Times New Roman", Times, serif;
 }
 
@@ -141,3 +141,13 @@ input{
     -khtml-border-radius: 5px;
     border-radius: 5px;
 	font-size:12px;}
+
+#caption{
+	position:absolute;
+	top:60px;
+	left:240px;
+	font-size:18px;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	color:#FFF;
+	font-weight:500;
+	font-style:italic;	}

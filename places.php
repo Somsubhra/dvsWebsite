@@ -35,9 +35,11 @@
 </div>
 
 <div id="webTitle">
-	
+	Dang Vikas Sansthan
 </div>
-
+<div id="caption">
+	Karauli, Rajasthan.
+</div>
 <ul id="menu">
 	<li><a href="index.php">Home</a></li>
     <li><a href="#">About us</a>
