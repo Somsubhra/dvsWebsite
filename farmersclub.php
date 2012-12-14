@@ -8,7 +8,7 @@
 <script src="script/ticker.js" type="text/javascript"></script>
 <script src="script/login.js" type="text/javascript"></script>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Welcome: Dang Vikas Sansthan</title>
+<title>Farmers Club: Dang Vikas Sansthan</title>
 </head>
 <body>
 
@@ -57,7 +57,7 @@
     
     </li>
     
-    <li><a href="projects.php">Projects</a>
+    <li><a href="#">Projects</a>
     <ul>
     	<li><a href="flrc.php">FLRC</a></li>
         <li><a href="farmersclub.php">Farmers Club</a></li>
@@ -75,34 +75,33 @@
 
 <ul id="ticker">
 		<li>
-			<a href="#">This is news1</a>
+			<a href="#">DVS identifies majority of mining labourers affected by silicosis.</a>
 		</li>
 		<li>
-			<a href="#">This is news2</a>
+			<a href="#">DVS organises skilled development for 55 scavengers.</a>
 		</li>
 		<li>
-			<a href="#">This is news3</a>
+			<a href="#">DVS helps in providing 20 lakhs microfinancing to 350 families.</a>
 		</li>
 		<li>
-			<a href="#">This is news4</a>
+			<a href="#">DVS has 25 farmers club, 50 self, help groups, 20 Joint Liability Groups.</a>
 		</li>
         		<li>
-			<a href="#">This is news5</a>
+			<a href="#">DVS gives 10 lakhs agricultural credit to Farmers club.</a>
 		</li>
 		<li>
-			<a href="#">This is news6</a>
+			<a href="#">DVS identifies and shortlists manual scavengers for their rehabilation.</a>
 		</li>
 		<li>
-			<a href="#">This is news7</a>
+			<a href="#">DVS tries to spread awareness among people for good governance.</a>
 		</li>
 		<li>
-			<a href="#">This is news8</a>
+			<a href="#">DVS helps widows with no source of income to obtain BPL.</a>
 		</li>
 </ul>
 
-
 <div id="title">
-	Home
+	Farmers club
 </div>
 
 <div id="rule">
@@ -110,7 +109,7 @@
 </div>
 
 <div id="body">
-Home body here...
+The broad objective of setting up Farmers' Clubs would be to achieve prosperity for the farmers with overall agricultural development in its area of operation by facilitating credit counselling, technology counselling and market counselling. Over the years, the vision of Farmers' Clubs has undergone a change and the role expected to be played by Farmers Clubs have been enlarged to enable them to facilitate transfer of technology, propagation of seed village concept, strengthen agricultural extension services, undertake collective purchase and distribution of inputs, production and marketing, capacity building of members, to act as Business Facilitators (BFs)/Business Correspondents (BCs) for banks, formation of Self Help Groups (SHGs), Joint Liability Groups (JLGs), Producers Groups/Companies, Federations of Farmers' Clubs, undertake community related works, and assume the role of a leader.
 </div>
 
 </body>

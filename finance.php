@@ -55,7 +55,7 @@
     
     </li>
     
-    <li><a href="projects.php">Projects</a>
+    <li><a href="#">Projects</a>
     <ul>
     	<li><a href="flrc.php">FLRC</a></li>
         <li><a href="farmersclub.php">Farmers Club</a></li>
@@ -74,31 +74,30 @@
 
 <ul id="ticker">
 		<li>
-			<a href="#">This is news1</a>
+			<a href="#">DVS identifies majority of mining labourers affected by silicosis.</a>
 		</li>
 		<li>
-			<a href="#">This is news2</a>
+			<a href="#">DVS organises skilled development for 55 scavengers.</a>
 		</li>
 		<li>
-			<a href="#">This is news3</a>
+			<a href="#">DVS helps in providing 20 lakhs microfinancing to 350 families.</a>
 		</li>
 		<li>
-			<a href="#">This is news4</a>
+			<a href="#">DVS has 25 farmers club, 50 self, help groups, 20 Joint Liability Groups.</a>
 		</li>
         		<li>
-			<a href="#">This is news5</a>
+			<a href="#">DVS gives 10 lakhs agricultural credit to Farmers club.</a>
 		</li>
 		<li>
-			<a href="#">This is news6</a>
+			<a href="#">DVS identifies and shortlists manual scavengers for their rehabilation.</a>
 		</li>
 		<li>
-			<a href="#">This is news7</a>
+			<a href="#">DVS tries to spread awareness among people for good governance.</a>
 		</li>
 		<li>
-			<a href="#">This is news8</a>
+			<a href="#">DVS helps widows with no source of income to obtain BPL.</a>
 		</li>
 </ul>
-
 <div id="title">
 	Financial Resources
 </div>
