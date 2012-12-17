@@ -113,6 +113,14 @@
 Home body here...
 </div>
 
+<div id="sideBar">
+	<div id="pic1" class="pic"><img src="res/img/sidepic1.JPG" class="sidepic" /></div>
+    <div id="pic2" class="pic"><img src="res/img/sidepic2.jpg" class="sidepic" /></div>
+    <div id="pic3" class="pic"><img src="res/img/sidepic3.jpg" class="sidepic" /></div>
+</div>
+
 </body>
+
+
 
 </html>

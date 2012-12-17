@@ -76,7 +76,7 @@
 	position:absolute;
 	top:240px;
 	left:250px;
-	box-shadow: 0px 0px 50px #DDD;
+	box-shadow: 0px 0px 50px #AAA;
 	font-family:Georgia, "Times New Roman", Times, serif;
 	font-size:14px;
 	color:#777;/**/
@@ -115,7 +115,7 @@
 #webTitle{
 	position:absolute;
 	top:20px;
-	left:240px;
+	left:30px;
 	font-size:48px;
 	font-family:Georgia, "Times New Roman", Times, serif;
 	color:#888;
@@ -147,7 +147,7 @@ input{
 #caption{
 	position:absolute;
 	top:60px;
-	left:240px;
+	left:30px;
 	font-size:18px;
 	font-family:Georgia, "Times New Roman", Times, serif;
 	color:#FFF;
@@ -162,3 +162,59 @@ table{
     -khtml-border-radius: 5px;
     border-radius: 5px;
 }
+
+#sideBar{
+	background-color:#CCC;
+	border: 1px solid #CCC;
+	box-shadow: 0px 0px 70px #AAA;
+	width:230px;
+	height:492px;
+	position:absolute;
+	left:1080px;
+	top:160px;
+	-moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -khtml-border-radius: 5px;
+    border-radius: 5px;
+}
+
+.pic{
+	background-color:#FFF;
+	width:224px;
+	height:160px;
+	-moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -khtml-border-radius: 5px;
+    border-radius: 5px;
+}
+
+#pic1{
+	position:absolute;
+	top:3px;
+	left:3px;
+}
+
+#pic2{
+	position:absolute;
+	top:166px;
+	left:3px;
+}
+
+#pic3{
+	position:absolute;
+	top:329px;
+	left:3px;
+}
+
+.sidepic{
+	
+	position:absolute;
+	top:3px;
+	left:3px;
+	-moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -khtml-border-radius: 5px;
+    border-radius: 5px;
+	width:218px;
+	height:154px;}
+	

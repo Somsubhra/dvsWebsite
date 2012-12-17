@@ -8,9 +8,9 @@
 	}
 	
 	#menu {
-		box-shadow: 0px 0px 50px #DDD;
+		box-shadow: 0px 0px 50px #AAA;
 		width: 910px;
-		//margin: 100px auto;
+		
 		border: 1px solid #999999;
 		
 		background-color: #999999;
@@ -25,7 +25,7 @@
 		border-radius: 6px;
 		position:absolute;
 		top:100px;
-		left:240px;
+		left:210px;
 		
 	}
 	

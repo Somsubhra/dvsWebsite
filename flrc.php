@@ -114,7 +114,11 @@
 <p>The main objective of DVS in establishing FLRCs is to enable aggregation of support inputs pertaining to various sectors and sub-sectors, and their delivery as part of a more focused livelihood intervention with the identified, poorest of the poor families in an area. </p>
 <p>The objective of the FLRC will be to develop and deliver a customised package of livelihood resources and support services, for sustainable income generation and enterprise promotion, of the poorest and the most vulnerable households in its area.</p>
 </div>
-
+<div id="sideBar">
+	<div id="pic1" class="pic"><img src="res/img/sidepic1.JPG" class="sidepic" /></div>
+    <div id="pic2" class="pic"><img src="res/img/sidepic2.jpg" class="sidepic" /></div>
+    <div id="pic3" class="pic"><img src="res/img/sidepic3.jpg" class="sidepic" /></div>
+</div>
 </body>
 
 </html>

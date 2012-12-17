@@ -112,7 +112,11 @@
 <div id="body">
 Self-help groups are started for broad anti-poverty agendas. Self-help groups are seen as instruments for a variety of goals including empowering women, developing leadership abilities among poor people, increasing school enrollments, and improving nutrition and the use of birth control. Financial inter mediation is generally seen more as an entry point to these other goals, rather than as a primary objective. This can hinder their development as sources of village capital, as well as their efforts to aggregate locally controlled pools of capital through federation, as was historically accomplished by credit unions.
 </div>
-
+<div id="sideBar">
+	<div id="pic1" class="pic"><img src="res/img/sidepic1.JPG" class="sidepic" /></div>
+    <div id="pic2" class="pic"><img src="res/img/sidepic2.jpg" class="sidepic" /></div>
+    <div id="pic3" class="pic"><img src="res/img/sidepic3.jpg" class="sidepic" /></div>
+</div>
 </body>
 
 </html>

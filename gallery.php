@@ -109,7 +109,11 @@
 <iframe align="center" src="http://www.flickr.com/slideShow/index.gne?user_id=91025337@N03" frameBorder="0" width="500" scrolling="no" height="500"></iframe>
 </center>
 </div>
-
+<div id="sideBar">
+	<div id="pic1" class="pic"><img src="res/img/sidepic1.JPG" class="sidepic" /></div>
+    <div id="pic2" class="pic"><img src="res/img/sidepic2.jpg" class="sidepic" /></div>
+    <div id="pic3" class="pic"><img src="res/img/sidepic3.jpg" class="sidepic" /></div>
+</div>
 </body>
 
 </html>

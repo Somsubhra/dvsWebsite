@@ -111,7 +111,11 @@
 <div id="body">
 The broad objective of setting up Farmers' Clubs would be to achieve prosperity for the farmers with overall agricultural development in its area of operation by facilitating credit counselling, technology counselling and market counselling. Over the years, the vision of Farmers' Clubs has undergone a change and the role expected to be played by Farmers Clubs have been enlarged to enable them to facilitate transfer of technology, propagation of seed village concept, strengthen agricultural extension services, undertake collective purchase and distribution of inputs, production and marketing, capacity building of members, to act as Business Facilitators (BFs)/Business Correspondents (BCs) for banks, formation of Self Help Groups (SHGs), Joint Liability Groups (JLGs), Producers Groups/Companies, Federations of Farmers' Clubs, undertake community related works, and assume the role of a leader.
 </div>
-
+<div id="sideBar">
+	<div id="pic1" class="pic"><img src="res/img/sidepic1.JPG" class="sidepic" /></div>
+    <div id="pic2" class="pic"><img src="res/img/sidepic2.jpg" class="sidepic" /></div>
+    <div id="pic3" class="pic"><img src="res/img/sidepic3.jpg" class="sidepic" /></div>
+</div>
 </body>
 
 </html>
