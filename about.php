@@ -59,7 +59,7 @@
     	<li><a href="flrc.php">FLRC</a></li>
         <li><a href="farmersclub.php">Farmers Club</a></li>
         <li><a href="shg.php">SHG</a></li>
-        <li><a href="sds.php">Sanyukt Deyta Samuh</a></li>
+        <li><a href="sds.php">Joint Liability Group</a></li>
         <li><a href="msr.php">Manual Scavengers</a></li>
     </ul>
       

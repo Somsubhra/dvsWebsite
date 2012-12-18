@@ -59,7 +59,7 @@
     	<li><a href="flrc.php">FLRC</a></li>
         <li><a href="farmersclub.php">Farmers Club</a></li>
         <li><a href="shg.php">SHG</a></li>
-        <li><a href="sds.php">Sanyukt Deyta Samuh</a></li>
+        <li><a href="sds.php">Joint Liability Group</a></li>
         <li><a href="msr.php">Manual Scavengers</a></li>
     </ul>
       
@@ -117,7 +117,7 @@ Our mission is to the help the socially weak section of the society like the Dal
 <p>
 Our organisation aims to identify the poorest of poorest in the society and study the factors directly influencing their livelihoods and also to identify the problems faced in their occupations. The organisation hopes to serve the people with limited and small incomes. The organisation also keeps interest in areas of goat rearing, water harvesting, etc.
 </p>
-<h1>Aim or Goals (As mentioned in memorandum):</h1>
+<h1>Aim or Goals:</h1>
 <ul>
 	<li>To create opportunities for local employment for women, youth and local people in rural areas.</li>
 	<li>To work for improving the employment opportunities the local natural resources.</li>

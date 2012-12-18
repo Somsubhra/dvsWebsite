@@ -71,7 +71,7 @@
     	<li><a href="flrc.php">FLRC</a></li>
         <li><a href="farmersclub.php">Farmers Club</a></li>
         <li><a href="shg.php">SHG</a></li>
-        <li><a href="sds.php">Sanyukt Deyta Samuh</a></li>
+        <li><a href="sds.php">Joint Liability Group</a></li>
         <li><a href="msr.php">Manual Scavengers</a></li>
     </ul>
       
@@ -146,6 +146,7 @@
         	
         </a>
 </div>
+
 </div>
 
 
@@ -154,7 +155,10 @@
 
 
 <iframe width="232" height="246" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.co.in/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=karauli&amp;sll=21.125498,81.914063&amp;sspn=23.104488,43.286133&amp;ie=UTF8&amp;hq=&amp;hnear=Karauli,+Rajasthan&amp;ll=26.49682,77.027603&amp;spn=0.021777,0.042272&amp;t=m&amp;z=14&amp;output=embed"></iframe><br /><small><a href="https://maps.google.co.in/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=karauli&amp;sll=21.125498,81.914063&amp;sspn=23.104488,43.286133&amp;ie=UTF8&amp;hq=&amp;hnear=Karauli,+Rajasthan&amp;ll=26.49682,77.027603&amp;spn=0.021777,0.042272&amp;t=m&amp;z=14" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+
 </div>
+
+<div id="footer" style="top:900px"></div>
 </body>
 
 </html>
